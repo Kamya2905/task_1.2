@@ -74,7 +74,7 @@ header {
   content: '';
   width: 0;
   height: 2px;
-  background: orangered;
+  background: rgb(108, 81, 72);
   display: block;
   margin: auto;
   transition: 0.5s;
